@@ -32,7 +32,7 @@ export default function Home() {
           <iframe
             style={{borderRadius: "45px"}}
             width="95%"
-            height="505rem"
+            height="470rem"
             src="https://www.youtube.com/embed/1rysnVdpHPg?controls=1&rel=0"
             allowFullScreen
           >Loading...</iframe>
