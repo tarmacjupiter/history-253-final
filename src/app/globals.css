@@ -33,7 +33,7 @@ body {
 }
 
 .button-tab {
-  background-color: #DEC491; /* Gold background, change as per your color requirement */
+  background-color: #c09d70; /* Gold background, change as per your color requirement */
   color: #4E3229; /* Black text color, change if needed */
   font-weight: 700; /* Bold font */
   width: 200px;
@@ -49,10 +49,6 @@ body {
 }
 
 .button-tab:hover {
-  background-color: #8c8069; /* Orange background on hover, change as per your color requirement */
+  background-color: #736048; /* Orange background on hover, change as per your color requirement */
 }
 
-/* Optional: if you want the active tab to have a different style */
-.button-tab-active {
-  background-color: #FFA500; /* Orange background for active state */
-}

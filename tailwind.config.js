@@ -14,12 +14,12 @@ module.exports = {
       },
     },
     colors: {
-      "tanpink": "#C7A27B",
-      "textbrown": "#4E3229",
+      "tanpink":  "#2B2726", // "#5d0404", // "#810404",// "#9f8c5d", // "#C7A27B",
+      "textbrown":  "#C09D70", //"#e8e1d9", // "#4E3229",
       "borderwhite": "#D9D9D9",
-      "paragraphtext": "#8D604E",
-      "graybrown": "#3C3934",
-      "buttoncolor": "#DEC491",
+      "paragraphtext": "#FFFFFF", // "#e8e1d9", //"#8D604E",
+      "graybrown": "#221E1D", // "#000000", // "#302d2f", //"#3C3934",
+      "buttoncolor": "#c09d70", // "#DEC491",
     },
     borderRadius: {
       "extra": '94px'
