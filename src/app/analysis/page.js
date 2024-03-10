@@ -24,7 +24,7 @@ export default function Analysis() {
           <iframe
             style={{borderRadius: "45px"}}
             width="95%"
-            height="500.25rem"
+            height="450rem"
             src="https://docs.google.com/document/d/1_Wes7aDKxoPBdke3tO8Iq7O-ZwD8KjD5DUo0h0Lzsso?rm=minimal"
             allowFullScreen
           >Loading...</iframe>

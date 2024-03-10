@@ -24,7 +24,7 @@ export default function History() {
           <iframe
             style={{borderRadius: "45px"}}
             width="95%"
-            height="500.25rem"
+            height="450rem"
             src="https://docs.google.com/document/d/1vhxvarvhhehIWuKBTevs_haNKYOhCtC3_uibKojdAlY?rm=minimal"
             allowFullScreen
           >Loading...</iframe>
