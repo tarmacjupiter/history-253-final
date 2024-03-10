@@ -31,3 +31,28 @@ body {
     text-wrap: balance;
   }
 }
+
+.button-tab {
+  background-color: #DEC491; /* Gold background, change as per your color requirement */
+  color: #4E3229; /* Black text color, change if needed */
+  font-weight: 700; /* Bold font */
+  width: 200px;
+  padding: 10px 20px; /* Adjust padding to match your design */
+  margin: 10px; /* Space between buttons */
+  border: none; /* No border */
+  outline: none; /* No outline */
+  cursor: pointer; /* Pointer cursor on hover */
+  font-size: 1rem; /* Font size, adjust as needed */
+  border-radius: 5px; /* Rounded corners, adjust as needed */
+  transition: background-color 0.5s ease; /* Smooth background color transition */
+  border-radius: 100px;
+}
+
+.button-tab:hover {
+  background-color: #8c8069; /* Orange background on hover, change as per your color requirement */
+}
+
+/* Optional: if you want the active tab to have a different style */
+.button-tab-active {
+  background-color: #FFA500; /* Orange background for active state */
+}
