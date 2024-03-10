@@ -44,11 +44,13 @@ body {
   cursor: pointer; /* Pointer cursor on hover */
   font-size: 1rem; /* Font size, adjust as needed */
   border-radius: 5px; /* Rounded corners, adjust as needed */
-  transition: background-color 0.5s ease; /* Smooth background color transition */
+  transition: transform 0.3 ease-in-out;
+  transition: background-color 0.5s ease;
   border-radius: 100px;
 }
 
 .button-tab:hover {
   background-color: #736048; /* Orange background on hover, change as per your color requirement */
+  transform: scale(1.05);
 }
 
